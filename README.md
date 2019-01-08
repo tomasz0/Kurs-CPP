@@ -24,6 +24,10 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Git Cheat Sheet](github-git-cheat-sheet.pdf)
 - [Vim Cheat Sheet](vim-cheat-sheet.gif)
 - [Preferred Vim Configuration](https://github.com/amix/vimrc)
+- [Nagranie audio (nieobrobione)](https://soundcloud.com/ukasz-ziobro-302162024/pierwsze-zajecia-mp3/s-SvVFd)
+- [Nagranie wideo (nieobrobione)](https://www.youtube.com/watch?v=XzKFsEmoXac)
+- ![tablica](tablica.jpg)
+- ![git](git.jpg)
 
 ### Post-work
 - [X] Zrób Fork tego repozytorium i oznaczaj w nim ukończone rzeczy
