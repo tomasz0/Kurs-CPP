@@ -26,8 +26,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Preferred Vim Configuration](https://github.com/amix/vimrc)
 - [Nagranie audio (nieobrobione)](https://soundcloud.com/ukasz-ziobro-302162024/pierwsze-zajecia-mp3/s-SvVFd)
 - [Nagranie wideo (nieobrobione)](https://www.youtube.com/watch?v=XzKFsEmoXac)
-- ![tablica](tablica.jpg)
-- ![git](git.jpg)
+- <img src="tablica.jpg" width="250"> <img src="git.jpg" width="250">
 
 ### Post-work
 - [X] Zrób Fork tego repozytorium i oznaczaj w nim ukończone rzeczy
