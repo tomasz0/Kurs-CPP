@@ -13,6 +13,9 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [Ściągawka - Niektóre opcje kompilacji](sciaga_opcje_kompilacji.pdf)
 - [Ściągawka - Scrum](sciaga_scrum.pdf)
 - [Scrum Framework](ScrumFramework.pdf)
+- [Cmake documentation](https://cmake.org/cmake/help/v3.13/manual/cmake-commands.7.html)
+- Foto z zajęć: <img src="kompilacja.jpg" width="250px"> <img src="zasady_kodowania.jpg" width="250px">
+  <img src="tablica0.jpg" width="250px"> <img src="tablica1.jpg" width="250px">
 
 ### Post-work (deadline: 20.01.2019)
 - [ ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/)
@@ -52,7 +55,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - Przechowywanie rekordów o strukturze: Imię, nazwisko, nr indeksu.
   - Wpisywanie nowych danych
   - Sortowanie po numerze indeksu
-  - Usuwanie po numerze indeksu.
+  - Usuwanie po numerze indeksu
+  
   UWAGA: Tutaj nacisk kładziemy na pracę grupową. Każda osoba z grupy musi coś wkomitować.
   Program będzie dalej rozwijany w przyszłości. Teraz najważniejsze będzie zorganizowanie się, podzielenie pracy i commitowanie do wspólnego repozytorium
   Pamiętajcie o [MVP (Minimal Viable Product)](https://goo.gl/images/D3Jeam)
@@ -64,6 +68,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   - operatory (porównania, strumienia, arytmetyczne, ...)
   - słówka kluczowe - static, extern, inline, explicit, register, friend, volatile, virtual, mutable
   - wyjątki
+  
   Wybrany temat **zaznacz pogrubieniem**
   Ściągę wrzuć na Discorda podziel się nią z grupą. Reszta grupy da komentarze, czy wszystko jest jasne czy nie. **Termin: 29.01.2019**.
 
@@ -72,4 +77,4 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] Przeczytaj artykuł mojego kolegi Marcina Pietraszka o złożoności obliczeniowej: http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/
 - [ ] Zapoznaj sie dokładniej z opisem kontenerów: http://en.cppreference.com/w/cpp/container
 - [ ] Playlista na YT odnośnie STLa: https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb - obejrzyj ile mozesz :)
--
+
