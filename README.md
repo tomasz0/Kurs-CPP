@@ -23,12 +23,12 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 - [ ] Zrób [test Narzędzia programisty](https://goo.gl/forms/EQurphnqBaOG20U32)
 
 ### Pre-work for the next lesson (deadline 15.01.2019)
-- [ ] Obejrzyj [wideo jak działa alokacja pamięci](https://www.youtube.com/watch?v=CSVRA4_xOkw)
-- [ ] Obejrzyj [wideo o tym, jak działają wskaźniki](https://www.youtube.com/watch?v=W0aE-w61Cb8)
-- [ ] Wpisz poniżej 3 rzeczy, które wg siebie najmniej rozumiesz w C++ i zrób Pull Request :)
-  - __________
-  - __________
-  - __________
+- [x ] Obejrzyj [wideo jak działa alokacja pamięci](https://www.youtube.com/watch?v=CSVRA4_xOkw)
+- [x ] Obejrzyj [wideo o tym, jak działają wskaźniki](https://www.youtube.com/watch?v=W0aE-w61Cb8)
+- [x ] Wpisz poniżej 3 rzeczy, które wg siebie najmniej rozumiesz w C++ i zrób Pull Request :)
+  - wskaźniki
+  - rzutowania min. dynamic_cast
+  - funkcje wirtualne 
 
 
 
